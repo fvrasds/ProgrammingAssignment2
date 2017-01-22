@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCacheMatrix creates a list that includes the input data matrix, and that can cache its inverse
+## cacheSolve retrieves the matrix inverse if it has been cached, and computes the inverse if it has not been cached
 
 ## makeCacheMatrix creates a list of 4 objects 
 ## (1) get is a data matrix 
